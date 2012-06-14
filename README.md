@@ -1,4 +1,0 @@
-tms
-===
-
-Talent Management System
